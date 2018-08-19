@@ -18,6 +18,18 @@
     [super viewDidLoad];
     
     self.view.backgroundColor = [UIColor whiteColor];
+    [self masterCodes];
+}
+
+#pragma mark - Private functions
+
+- (void)masterCodes {
+    NSLog(@"写一点master Codes");
+    /**
+     * dev 的commit后切换回master 发现dev改变的内容并没有影响到master
+     * 
+     
+     */
 }
 
 
