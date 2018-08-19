@@ -18,6 +18,16 @@
     [super viewDidLoad];
     
     self.view.backgroundColor = [UIColor whiteColor];
+    [self addDevCodes];
+}
+
+#pragma mark - Private functions
+
+- (void)addDevCodes {
+    NSLog(@"添加Dev代码");
+    /**
+     * 观察提交后是否会影响到master的内容
+     */
 }
 
 
