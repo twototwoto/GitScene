@@ -24,6 +24,7 @@
      * dev 分支新增代码
      * dev 添加一行代码
      * dev merge后撤销准备
+     * dev commit push 后撤销准备
      */
 }
 
