@@ -16,6 +16,7 @@
      * 查看下冲突样式
      * master 添加代码
      * master merge 前撤销添加
+     * master commit push 后撤销准备
      */
 }
 
@@ -23,7 +24,7 @@
     /**
      * dev 分支新增代码
      * dev 添加一行代码
-     * dev merge后撤销准备
+     * master commit push 故意改动dev的代码
      */
 }
 
