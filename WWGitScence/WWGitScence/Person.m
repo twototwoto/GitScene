@@ -19,6 +19,7 @@
      * master commit push 后撤销准备
      * master push 后撤销准备 Line 20
      * master push 后撤销准备 Line 21
+     * master push 后撤销准备 Line 22
      */
 }
 
@@ -34,6 +35,7 @@
      * master push 后撤销准备 Line 34 故意和dev 冲突
      * dev push 后撤销准备
      * dev push 后撤销准备 Line 33
+     * master push 后撤销准备 Line 38 提前制造与dev冲突
      */
 }
 
