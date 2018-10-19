@@ -32,6 +32,8 @@
      * dev commit push 后撤销准备
      * dev push 后撤销准备 故意和dev 冲突
      * master push 后撤销准备 Line 34 故意和dev 冲突
+     * dev push 后撤销准备
+     * dev push 后撤销准备 Line 33
      */
 }
 
