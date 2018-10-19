@@ -27,6 +27,9 @@
      * dev 添加一行代码
      * master commit push 故意改动dev的代码 Line 28
      * master push 后撤销准备 Line 29
+     * dev merge后撤销准备
+     * dev commit push 后撤销准备
+     * dev push 后撤销准备
      */
 }
 
