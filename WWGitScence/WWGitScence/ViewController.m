@@ -49,5 +49,19 @@
      */
 }
 
+- (void)readMe {
+    
+    /**
+     * 1.演示了dev merge 到master 的场景
+     * dev 有改动
+     * master 有改动
+     * dev、master都commit了 且 dev、master都没有push
+     * dev merge 到master
+         * 解决冲突后 master push后
+            * dev 落后一次提交 ;
+            * 1)dev 从master 进行pull
+        * 接下来演示：想要撤销merge
+     */
+}
 
 @end
