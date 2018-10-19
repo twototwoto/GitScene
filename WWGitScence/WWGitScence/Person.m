@@ -18,6 +18,8 @@
      * master merge 前撤销添加
      * master commit push 后撤销准备
      * master push 后撤销准备 Line 20
+     * dev 制造与 master的冲突 Line21
+     * dev 制造与 master的冲突 Line22
      */
 }
 
@@ -31,6 +33,7 @@
      * dev commit push 后撤销准备
      * dev push 后撤销准备
      * dev push 后撤销准备 Line 33
+     * dev push 后撤销准备 Line 34
      */
 }
 
