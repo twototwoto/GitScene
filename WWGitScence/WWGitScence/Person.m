@@ -21,7 +21,7 @@
 - (void)devCodes {
     /**
      * dev 分支新增代码
-     >>>>>>> dev
+     * dev 添加一行代码
      */
 }
 
