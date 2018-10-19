@@ -17,6 +17,7 @@
      * master 添加代码
      * master merge 前撤销添加
      * master commit push 后撤销准备
+     * master push 后撤销准备 Line 20
      */
 }
 
@@ -24,7 +25,8 @@
     /**
      * dev 分支新增代码
      * dev 添加一行代码
-     * master commit push 故意改动dev的代码
+     * master commit push 故意改动dev的代码 Line 28
+     * master push 后撤销准备 Line 29
      */
 }
 
