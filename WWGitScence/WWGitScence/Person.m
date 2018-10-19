@@ -20,6 +20,8 @@
      * master push 后撤销准备 Line 20
      * master push 后撤销准备 Line 21
      * master push 后撤销准备 Line 22
+     * dev 制造与 master的冲突 Line21
+     * dev 制造与 master的冲突 Line22
      */
 }
 
@@ -36,6 +38,7 @@
      * dev push 后撤销准备
      * dev push 后撤销准备 Line 33
      * master push 后撤销准备 Line 38 提前制造与dev冲突
+     * dev push 后撤销准备 Line 34
      */
 }
 
