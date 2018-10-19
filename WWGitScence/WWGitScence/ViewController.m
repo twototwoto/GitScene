@@ -66,7 +66,7 @@
      
          * dev、master都没有commit 且 dev、master都push了
          * dev merge 到master
-     * 2. 演示master分支问题 切换到之前的commit部分的时候再次修改了内容提交的情况:
+     * 2. 演示master分支问题 切换到之前的commit部分的时候再次修改了内容提交情况:
      */
 }
 
