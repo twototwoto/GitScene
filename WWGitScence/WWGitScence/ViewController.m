@@ -67,6 +67,7 @@
          * dev、master都没有commit 且 dev、master都push了
          * dev merge 到master
      * 2. 演示master分支问题 切换到之前的commit部分的时候再次修改了内容提交情况:
+        * master 在历史提交部分还想要再次补充提交内容的情况
      */
 }
 
