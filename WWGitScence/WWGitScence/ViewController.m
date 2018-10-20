@@ -84,6 +84,7 @@
             * 执行git commit 并且 push
      
      * 3. 演示git rebase
+        * git rebase 再次提交
      */
 }
 
