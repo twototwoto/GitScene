@@ -72,6 +72,18 @@
      * bugfix 分支 修复bug
      * bugfix 分支 修复多个bug
      * 回到历史提交部分再次提交铺垫
+        * 小结：
+            * 如果出现了发现历史提交出现了bug
+            * 可以考虑使用git reset --hard 提交编码
+            * 并且 使用git checkout -b bugfix 并且修复bug
+            * git commit -m
+            * git checkout master
+            * git merge bugfix
+            * 解决冲突 并且commit 新的内容
+            * 先执行 git pull 并且解决冲突
+            * 执行git commit 并且 push
+     
+     * 3. 演示git rebase
      */
 }
 
