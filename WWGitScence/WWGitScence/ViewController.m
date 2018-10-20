@@ -86,6 +86,16 @@
      * 3. 演示git rebase
         * git rebase 再次提交
         * git rebase 再次提交 Line 88
+        * git reset --hard 历史提交部分
+        * git checkout bugfix
+        * 修改bug 后并且 add commit 否则 会提示下边rebase时
+        * git rebase master
+             git rebase master
+             Cannot rebase: You have unstaged changes.
+             Please commit or stash them.
+        * 使用git rebase 是不需要像merge 那样再commit了（自己演示一遍比较容易理解）
+        * git checkout master
+        * git pull 完成
      */
 }
 
